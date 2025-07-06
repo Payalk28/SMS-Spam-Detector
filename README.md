@@ -1,13 +1,12 @@
 # SMS-Spam-Detector
-Certainly! Here's a richer and still easy-to-understand explanation for your **SMS Spam Detector project**:
 
----
+
 
 ## 📱 SMS Spam Detector – Project Overview
 
 This project is a **machine learning-based classifier** designed to automatically detect whether an incoming SMS message is **spam (unwanted, promotional, or fraudulent)** or **ham (legitimate)**. It’s ideal for building filters for messaging apps, customer support platforms, or telecom services.
 
----
+
 
 ### ⚙️ How It Works
 
@@ -17,7 +16,7 @@ This project is a **machine learning-based classifier** designed to automaticall
 - 🎯 **Live Prediction**: You can type a message, and the model instantly tells you whether it’s spam.
 - 🌥️ **WordCloud Visualization**: Common keywords from spam and ham messages are shown using visual clouds—helpful for spotting patterns.
 
----
+
 
 ### 📈 Performance
 
@@ -25,7 +24,7 @@ This project is a **machine learning-based classifier** designed to automaticall
 - **Testing Accuracy**: ~98.56%
 - Reliable performance even with short and informal text messages.
 
----
+
 
 ### 💡 Why This Project Matters
 
@@ -34,7 +33,7 @@ Spam messages can be annoying, misleading, and even dangerous. This system helps
 - 💌 **Improve user experience by reducing message clutter**
 - 🔍 **Support research and development of smart text filters**
 
----
+
 
 ### 🔧 Tech Stack
 
